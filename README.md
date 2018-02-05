@@ -1,4 +1,7 @@
 # CRUD
+
+This is crud app developed using html forms
+
 To setup
 
 1.npm install
